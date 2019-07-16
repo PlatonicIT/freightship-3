@@ -57,11 +57,10 @@ img {
 .login-page {
     height: 100vh;
     min-height: 600px;
-    background-image: url('assets/img/BG-Signin.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    background-color: #737373;
+    background-color: #9d9d9d;
 }
 
 .login-page div {
